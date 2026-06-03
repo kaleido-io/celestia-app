@@ -1,6 +1,6 @@
 module github.com/celestiaorg/celestia-app/v6
 
-go 1.25.8
+go 1.25.11
 
 require (
 	cloud.google.com/go/compute v1.54.0
